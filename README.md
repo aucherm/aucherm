@@ -9,3 +9,4 @@
 - 🧶 In my free time I enjoy knitting, reading, seeing my friends, travelling and cuddling with my dog, Sparrow
 - ⚡ Fun fact : I'm afraid of pigeons and I could eat ice cream every day
 
+[Version française🇫🇷](README_fr.md)
