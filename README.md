@@ -1,7 +1,7 @@
 ## Who am I ?
 
 
-- 👋🏾 Hi, ma name is Maëlle 
+- 👋🏾 Hi, my name is Maëlle 
 - 📍 I'm living in Nantes, France
 - 🏫 I have a Master in English and Spanish Translation and a Master MEEF (to become a teacher)
 - 🌱 I’m currently learning web development at ADATECH School
